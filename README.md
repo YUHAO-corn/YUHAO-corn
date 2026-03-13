@@ -20,6 +20,3 @@ Currently self-employed in Shanghai, exploring the intersection of LLMs, agent f
 ### Get in touch
 
 - 🌐 [Blog & Portfolio](https://yuhao-corn.github.io/deskhand-v2/)
-- 💬 WeChat Official Account: 粟米游戏
-
-<img src="wechat-qr.jpg" width="200" alt="WeChat QR Code" />
