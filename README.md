@@ -1,37 +1,29 @@
 <h1> Hi, I'm Yuhao 👋 </h1>
 
-I'm an AI Product Manager who codes — I design, build, and ship AI-powered products end to end.
+I build AI agents and ship them as real products that people actually use.
 
-My work sits at the intersection of product thinking and hands-on engineering: multi-agent systems, LLM-powered tools, browser extensions, and workflow automation. I go from PRD to production code.
+Most of my work is hands-on: designing multi-agent architectures, wiring up tool calling and local context, and turning LLM capabilities into desktop apps, browser extensions, and workflow tools that solve real problems — not just demos.
 
-**What I build**
+Right now I'm building [Deskhand](https://github.com/YUHAO-corn/Deskhand), an AI desktop agent that reads your local files, apps, and system context to help you get things done — disk cleanup, data analysis, document translation, note organization — all through natural conversation with real tool execution.
 
-- Multi-agent systems: planning agents, decision agents, PM copilots
-- AI-powered browser extensions with 10k+ users
-- Developer tools: prompt management, code generation, workflow automation
-- Full-stack AI apps: from LLM orchestration to frontend delivery
-- RAG pipelines, conversational AI, and intelligent assistants
+**What I work on**
 
-<h2> Featured Projects </h2>
+- AI desktop agents: local context reading, tool invocation, permission-aware execution
+- Multi-agent systems: hierarchical architectures, planning agents, sequential pipelines
+- Full product delivery: from PRD to production code, solo PM + developer
+- LLM apps: RAG, conversational AI, browser extensions, workflow automation
 
-| Project | Description | Stack |
-|---------|------------|-------|
-| [Aetherflow](https://github.com/YUHAO-corn/aetherflow_final_2) | AI-powered browser extension for prompt management & workflow automation | React, TypeScript, Chrome Extension |
-| [manufacturing-agents](https://github.com/YUHAO-corn/manufacturing-agents) ⭐156 | Multi-agent replenishment decision system for manufacturing | Python, LLM Agents |
-| [negative_review_helper](https://github.com/YUHAO-corn/negative_review_helper) ⭐82 | AI assistant helping merchants handle negative reviews | React, Node.js, WeChat Mini Program |
-| [pm-agent](https://github.com/YUHAO-corn/pm-agent) | Multi-agent product manager assistant built with Google ADK | Python, Gemini |
-| [Deskhand](https://github.com/YUHAO-corn/Deskhand) | AI desktop agent that reads local context and invokes tools | TypeScript |
-| [deer-flow-deep-dive](https://github.com/YUHAO-corn/deer-flow-deep-dive) | Deep research agent with multi-step reasoning | Python, LangGraph |
+<h2> What I'm Building </h2>
+
+**[Deskhand](https://github.com/YUHAO-corn/Deskhand)** — An AI desktop agent that actually does things on your computer. It reads local files, connects to your apps (Apple Notes, Excel, .docx), and executes tasks with your permission. Built with TypeScript + Anthropic API. Think of it as a local-first AI assistant that goes beyond chat.
+
+**[PM-Agent](https://github.com/YUHAO-corn/pm-agent)** — A multi-agent product manager assistant built with Google ADK. Feed it a product idea, it runs a structured interview, then generates a full documentation suite: market research, user personas, feature specs, wireframes, and interaction flows — all through a hierarchical 3-layer agent architecture.
 
 <h2> About Me </h2>
 
-- Based in Shanghai, with experience across AI product management, full-stack development, and startup building
-- Shipped a Chrome extension (Aetherflow) from zero to 10k+ users as solo PM + developer
-- Comfortable across the stack: Python for agents & backend, TypeScript/React for frontend, LLM APIs for intelligence
-- Focused on practical AI — not demos, but products people actually use
+- AI Product Manager based in Shanghai — I design products and write the code to build them
+- Shipped a Chrome extension from zero to 10k+ users as solo PM + developer
+- Comfortable across the stack: Python for agents & backend, TypeScript/React for frontend, LLM APIs for the intelligence layer
+- I care about building AI tools that work in the real world, not just in notebooks
 
-**What I work with**
-
-`Python` `TypeScript` `React` `Node.js` `LLM APIs` `Multi-Agent Systems` `Google ADK` `LangChain` `RAG` `Chrome Extensions`
-
-**Open to collaborations on AI agent projects and developer tools. Feel free to reach out.**
+`Python` `TypeScript` `React` `LLM APIs` `Multi-Agent Systems` `Google ADK` `Anthropic API` `Tool Calling` `RAG`
