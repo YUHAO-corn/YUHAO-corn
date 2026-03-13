@@ -9,12 +9,12 @@ Right now I'm building [Deskhand](https://github.com/YUHAO-corn/Deskhand), an AI
 **What I work on**
 
 - AI Agents: desktop agents, browser agents, multi-agent teams, MCP-based tool calling, local-first agents
-- Agent architecture: hierarchical routing, sequential pipelines, planning loops, context passing between agents
+- Agent orchestration: hierarchical routing, sequential pipelines, planning loops, context passing between agents; tools: LangChain, LangGraph, Google ADK
 - Prompt engineering: system prompt design, chain-of-thought, structured output, prompt management at scale
 - RAG: embedding pipelines, hybrid search, chunking strategies, agentic RAG with tool retrieval
-- Full product delivery: PRD → architecture → code → ship, solo PM + developer workflow
-- LLM app patterns: streaming, function calling, conversation memory, permission-aware execution
-- Fine-tuning: LoRA, dataset curation, evaluation pipelines for task-specific models
+- LLM evaluation: A/B testing prompts, human-in-the-loop scoring, automated eval pipelines, vibe checks at scale
+- Agentic engineering: spec-driven development, AI-assisted architecture, test-aware code generation, production-grade agent coding
+- Product strategy: competitive analysis, user interviews, feature prioritization, go-to-market for developer tools
 
 <h2> What I'm Building </h2>
 
