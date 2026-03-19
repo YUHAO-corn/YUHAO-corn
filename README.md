@@ -22,6 +22,8 @@ Right now I'm building [Deskhand](https://github.com/YUHAO-corn/Deskhand), an AI
 
 **[PM-Agent](https://github.com/YUHAO-corn/pm-agent)** — A multi-agent product manager assistant built with Google ADK. Feed it a product idea, it runs a structured interview, then generates a full documentation suite: market research, user personas, feature specs, wireframes, and interaction flows — all through a hierarchical 3-layer agent architecture.
 
+Recently shipped a few smaller tools: [Corn's Awesome Skills](https://github.com/YUHAO-corn/corn-awesome-skills), [PM-Agent](https://github.com/YUHAO-corn/pm-agent), [styled-resume](https://github.com/YUHAO-corn/styled-resume), and [BOSS Job Collector](https://github.com/YUHAO-corn/boss-job-collector).
+
 <h2> About Me </h2>
 
 - AI Product Manager based in Shanghai — I design products and write the code to build them
